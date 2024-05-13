@@ -7,7 +7,7 @@ No início de 2024, fui selecionada para integrar a equipe de análise no Tribun
 
  ##
 
-##Informações gerais sobre mim:
+### Informações gerais sobre mim:
 
 - 🔭 Atualmente sou desenvolvedora frontend na empresa Bonfire e Analista no Tribunal de Justiça de Minas Gerais
 - 🔥 O Bonfire foi criado por mim e outros colegas durante o ensino médio
