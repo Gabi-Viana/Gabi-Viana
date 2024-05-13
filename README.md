@@ -5,6 +5,8 @@ Desde 2022, tenho atuado como Desenvolvedora Frontend, uma jornada que se inicio
 No início de 2024, fui selecionada para integrar a equipe de análise no Tribunal de Justiça de Minas Gerais, onde permaneço até o presente momento. Paralelamente, mantenho meu compromisso como Desenvolvedora Frontend na empresa Bonfire, conciliando responsabilidades e contribuindo ativamente em ambos os ambientes profissionais.
 
 
+ ##
+
 ##Informações gerais sobre mim:
 
 - 🔭 Atualmente sou desenvolvedora frontend na empresa Bonfire e Analista no Tribunal de Justiça de Minas Gerais
