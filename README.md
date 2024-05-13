@@ -7,6 +7,16 @@ No início de 2024, fui selecionada para integrar a equipe de análise no Tribun
 
  ##
 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+</div>
+
+##
+
 ### Informações gerais sobre mim:
 
 - 🔭 Atualmente sou desenvolvedora frontend na empresa Bonfire e Analista no Tribunal de Justiça de Minas Gerais
