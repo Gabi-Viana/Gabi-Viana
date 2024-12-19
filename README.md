@@ -1,6 +1,6 @@
 ### Olá! Me chamo Gabriela Viana!
 
-Desde 2022, atuo como Desenvolvedora Frontend, iniciando minha trajetória com a fundação da Bonfire, ao lado de colegas de profissão. Nessa empresa, trabalho no desenvolvimento de sistemas tanto para a web quanto mobile. Além disso, sou desenvolvedora Low Code, com foco no Power Automate da Microsoft, onde participei ativamente da criação de diversas automações nessa plataforma.
+Desde 2022, atuo como Desenvolvedora Frontend, iniciando minha trajetória com a fundação da Bonfire, ao lado de colegas de profissão. Nessa empresa, atuamos no desenvolvimento de sistemas tanto para a web quanto mobile. Além disso, sou desenvolvedora Low Code, com foco no Power Automate da Microsoft, onde participei ativamente da criação de diversas automações nessa plataforma.
 
 Possuo formação técnica em Informática para Internet pelo SENAI, com ênfase em desenvolvimento web, e em Design Gráfico, também pelo SENAI. Atualmente, estou me graduando em Engenharia de Software pela Estácio e em Análise de Desenvolvimento de Sistemas pela PUC.
 
