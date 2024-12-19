@@ -6,7 +6,7 @@ Possuo formação técnica em Informática para Internet pelo SENAI, com ênfase
 
 Em janeiro de 2024, fui selecionada para integrar a equipe de Assistentes de Processos de Sistemas Judiciais na Diretoria de Informática do Tribunal de Justiça de Minas Gerais, posição que ocupo até o momento. Paralelamente, mantenho meu compromisso como Desenvolvedora Frontend na Bonfire, conciliando responsabilidades e contribuindo de forma significativa em ambos os ambientes profissionais.
 
-Este Git Hub em construção :)
+ Obs: Git Hub em construção :)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
